@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://arnavsingha.github.io/](https://arnavsingha.github.io/)
+- 👨‍💻 All of my projects are available at [https://arnavsingha.netlify.app](https://arnavsingha.netlify.app/#/home)
 
 - 💬 Ask me about **Full-stack, Front-end**
 
